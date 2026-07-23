@@ -37,7 +37,6 @@ type config struct {
 	db 	dbConfig
 	env  string
 	apiURL string
-	version string
 	mail  mailConfig
 	frontendURL string
 	auth authConfig
