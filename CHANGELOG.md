@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/athskouroliakos/go-api/compare/v1.0.0...v1.1.0) (2026-07-23)
+
+
+### Features
+
+* change api version automatically ([0f8bf43](https://github.com/athskouroliakos/go-api/commit/0f8bf43de85ea5f695ed41d75e2d484f5b6e5936))
+
 ## 1.0.0 (2026-07-23)
 
 
